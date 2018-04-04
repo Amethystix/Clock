@@ -1,0 +1,22 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "A moving clock made using Moment.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lad475/Clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lad475/Clock/issues"
+  },
+  "homepage": "https://github.com/lad475/Clock#readme",
+  "dependencies": {
+    "moment": "^2.22.0"
+  }
+}
